@@ -16,8 +16,8 @@ button {
   color: white;
   font-size: 18px;
   padding: 16px 24px;
-  text-align: center
-
+  text-align: center;
+transition: all 1s ease-out
 }
 
 .button:hover{
