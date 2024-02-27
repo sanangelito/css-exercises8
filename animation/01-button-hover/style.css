@@ -17,11 +17,11 @@ button {
   font-size: 18px;
   padding: 16px 24px;
   text-align: center;
-transition: all 1s ease-out
+transition: all .3s ease-in-out
 }
 
 .button:hover{
-transform: scale(2);
+transform: scale(1.2);
 background-color: #2563eb
 }
 
