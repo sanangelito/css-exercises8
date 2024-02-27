@@ -17,9 +17,17 @@ button {
   font-size: 18px;
   padding: 16px 24px;
   text-align: center
-  transition: all 1s ease-out;
+
 }
 
 .button:hover{
 background-color: #2563eb
+}
+
+button {
+  transition: all 1s ease-out
+}
+
+.button:hover {
+  transform: scale(2) 
 }
