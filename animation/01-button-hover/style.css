@@ -21,13 +21,8 @@ button {
 }
 
 .button:hover{
+transform: scale(2);
 background-color: #2563eb
 }
 
-button {
-  transition: all 1s ease-out
-}
 
-.button:hover {
-  transform: scale(2) 
-}
